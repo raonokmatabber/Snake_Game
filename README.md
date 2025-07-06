@@ -18,10 +18,15 @@ Basic Game Loop & State Management
 
 **Controls**
 Key	Action
+
 W	--> Move Up
+
 S	--> Move Down
+
 A	--> Move Left
+
 D	--> Move Right
+
 X	--> Exit Game [Work in Progress]
 
 We are still working on Increasing the length of the snake. Generating its food on random part of the map. Tracking and Increasing the Score.
