@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <stdbool.h>
 
-#define HEIGHT 30
+#define HEIGHT 31
 #define WIDTH 70
 
 typedef enum {STOP = 0, LEFT, RIGHT, UP, DOWN} direction;
